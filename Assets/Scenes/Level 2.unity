@@ -4367,6 +4367,18 @@ PrefabInstance:
       propertyPath: m_Convex
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 981808784786317158, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
+      propertyPath: m_Size.x
+      value: 4.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 981808784786317158, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
+      propertyPath: m_Size.y
+      value: 6.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 1613541085820340666, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
+      propertyPath: m_Size.y
+      value: 4.78
+      objectReference: {fileID: 0}
     - target: {fileID: 2600532074949089168, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
       propertyPath: m_Name
       value: Dropship_02_Body_Yellow (7)
@@ -4422,6 +4434,14 @@ PrefabInstance:
     - target: {fileID: 3412922061216664874, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458962852945116943, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
+      propertyPath: m_Size.x
+      value: 4.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458962852945116943, guid: a7effc7f4c9b9254cbc615c0fca7e32d, type: 3}
+      propertyPath: m_Size.y
+      value: 5.33
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
