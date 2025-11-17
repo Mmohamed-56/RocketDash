@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6828591732051925839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 945542475396142631, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 945542475396142631, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.017195903
+      objectReference: {fileID: 0}
+    - target: {fileID: 945542475396142631, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3698113
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282168704642014768, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282168704642014768, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.017195903
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282168704642014768, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3698113
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046816673232680105, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046816673232680105, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.g
+      value: 0.017195903
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046816673232680105, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3698113
+      objectReference: {fileID: 0}
+    - target: {fileID: 8172869361643868082, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_Name
+      value: Light_Glow_RED
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -22.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.013243508
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.9999123
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800048847658456328, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 181.518
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: becc92ccd7069454cbb4980be8f2650d, type: 3}
